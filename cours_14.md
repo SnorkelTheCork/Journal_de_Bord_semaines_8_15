@@ -39,17 +39,17 @@ Décrivez quelles seront les technologies utilisées dans votre projet.
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
 
-Programmation
-Concept art
-Textures
-Animation 3D
-Effets visuels 3D
-Environnement 3D
-Cinématique
-Modélisation 3D
-Interfaces 2D
-Conception des niveaux
-Équilibrage
-Gestionnaire de projet![image](https://user-images.githubusercontent.com/112108394/206509501-8b4b23e8-3c7a-448a-833f-7e500e4e1f26.png)
+Programmation,
+Concept art,
+Textures,
+Animation 3D,
+Effets visuels 3D,
+Environnement 3D,
+Cinématique,
+Modélisation 3D,
+Interfaces 2D,
+Conception des niveaux,
+Équilibrage,
+Gestionnaire de projet,
 
 
