@@ -50,6 +50,6 @@ Modélisation 3D,
 Interfaces 2D,
 Conception des niveaux,
 Équilibrage,
-Gestionnaire de projet,
+Gestionnaire de projet.
 
 
